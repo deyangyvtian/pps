@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/ghodss/yaml"
-	"github.com/sqeven/pps/pkg/tool"
+	"github.com/luohao10001/pps/pkg/tool"
 )
 
 var configFilePath = "config.yaml"
