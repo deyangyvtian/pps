@@ -31,6 +31,8 @@
 
 ## 安装
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### 从源码编译
 
 需要安装Golang
