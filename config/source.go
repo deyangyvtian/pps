@@ -1,6 +1,6 @@
 package config
 
-import "github.com/luohao10001/pps/pkg/tool"
+import "github.com/sqeven/pps/pkg/tool"
 
 type Source struct {
 	Type    string       `json:"type" yaml:"type"`
