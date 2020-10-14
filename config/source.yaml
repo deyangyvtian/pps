@@ -20,71 +20,71 @@
   options:
     url: https://raw.githubusercontent.com/Pcrab/Dotfiles/912c1104b3f8121f72f7ee11590f52bc9c44dde7/.config/electron-ssr/gui-config.json
 - type: subscribe
-    options:
-      url: https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr
+  options:
+    url: https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr
 - type: subscribe
-    options:
-      url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=d309c6921bbd7d0d
+  options:
+    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=d309c6921bbd7d0d
 - type: subscribe
-    options:
-      url: https://neurotoxinw.coding.net/p/qifei/d/qifei/git/raw/master/README.md
+  options:
+    url: https://neurotoxinw.coding.net/p/qifei/d/qifei/git/raw/master/README.md
 - type: subscribe
-    options:
-      url: https://sbnmsl.co/link/2cpTGUGJtHBXUK7d?sub=3
+  options:
+    url: https://sbnmsl.co/link/2cpTGUGJtHBXUK7d?sub=3
 - type: subscribe
-    options:
-      url: https://extrm.info/link/uirPjznB7esOezjr?sub=1
+  options:
+    url: https://extrm.info/link/uirPjznB7esOezjr?sub=1
 - type: subscribe
-    options:
-      url: http://www.sksla.pro/api/v1/client/subscribe?token=99c3fa86424539bd3bd34a893bc6dee8
+  options:
+    url: http://www.sksla.pro/api/v1/client/subscribe?token=99c3fa86424539bd3bd34a893bc6dee8
 - type: subscribe
-    options:
-      url: https://vvsub.xyz/api/al/19786-xDX1SCq61Ymi
+  options:
+    url: https://vvsub.xyz/api/al/19786-xDX1SCq61Ymi
 - type: subscribe
-    options:
-      url: https://rss-node.com/link/vqOaWFJRfbYxpAhY?mu=1
+  options:
+    url: https://rss-node.com/link/vqOaWFJRfbYxpAhY?mu=1
 - type: subscribe
-    options:
-      url: https://tm2w.live/link/EqICUlKXmn1EJwaw?sub=3
+  options:
+    url: https://tm2w.live/link/EqICUlKXmn1EJwaw?sub=3
 - type: subscribe
-    options:
-      url: https://dingyue.suying666.info/link/o7j43Aykx8CWBehE?sub=3
+  options:
+    url: https://dingyue.suying666.info/link/o7j43Aykx8CWBehE?sub=3
 - type: subscribe
-    options:
-      url: https://dingyue.suying666.info/link/o7j43Aykx8CWBehE?sub=1
+  options:
+    url: https://dingyue.suying666.info/link/o7j43Aykx8CWBehE?sub=1
 - type: subscribe
-    options:
-      url: https://www.haidaobot.xyz/link/QwdUmWolPN0LkThW?mu=2
+  options:
+    url: https://www.haidaobot.xyz/link/QwdUmWolPN0LkThW?mu=2
 - type: subscribe
-    options:
-      url: https://pptp.cloud/sub/cXHG9wqUpQbhHr7b.html
+  options:
+    url: https://pptp.cloud/sub/cXHG9wqUpQbhHr7b.html
 - type: subscribe
-    options:
-      url: https://suda.sub.koicloud.pw/link/JgULLCNkImsJ6Ibh?sub=3
+  options:
+    url: https://suda.sub.koicloud.pw/link/JgULLCNkImsJ6Ibh?sub=3
 - type: subscribe
-    options:
-      url: https://jiyou.world/modules/servers/V2raySocks/osubscribetest.php?sid=57394&token=V3GM60lgqZL9
+  options:
+    url: https://jiyou.world/modules/servers/V2raySocks/osubscribetest.php?sid=57394&token=V3GM60lgqZL9
 - type: subscribe
-    options:
-      url: https://aero.moe/link/kxdbKdopH3paUqUf?sub=3
+  options:
+    url: https://aero.moe/link/kxdbKdopH3paUqUf?sub=3
 - type: subscribe
-    options:
-      url: http://dy.tntv2.xyz/link/pTL0RgiVblXLIQjS?sub=3&extend=1
+  options:
+    url: http://dy.tntv2.xyz/link/pTL0RgiVblXLIQjS?sub=3&extend=1
 - type: subscribe
-    options:
-      url: https://719401146.online//link/oHPA3bXVc2zeqGGq?mu=2
+  options:
+    url: https://719401146.online//link/oHPA3bXVc2zeqGGq?mu=2
 - type: subscribe
-    options:
-      url: https://www.v2ray.pw/link/b5e255KbnnATXc60?mu=2+&extend=1
+  options:
+    url: https://www.v2ray.pw/link/b5e255KbnnATXc60?mu=2+&extend=1
 - type: subscribe
-    options:
-      url: http://ssrdingyue.ueuo.com/v2/8y12r
+  options:
+    url: http://ssrdingyue.ueuo.com/v2/8y12r
 - type: subscribe
-    options:
-      url: https://www.suncloud.fun/link/Su683BQEyUdxtyuY?mu=1&extend=1
+  options:
+    url: https://www.suncloud.fun/link/Su683BQEyUdxtyuY?mu=1&extend=1
 - type: subscribe
-    options:
-      url: https://sub88.xyz/link/egy4oyqok9aavpcy?sub=3
+  options:
+    url: https://sub88.xyz/link/egy4oyqok9aavpcy?sub=3
 - type: subscribe
     options:
       url: https://qiaomenzhuanfx.netlify.com/
