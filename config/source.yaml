@@ -8,14 +8,14 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
-    options:
-      url: https://baipiao-rss.com/link/NESJDoBYEccrLeN4?sub=3&extend=1
+  options:
+    url: https://baipiao-rss.com/link/NESJDoBYEccrLeN4?sub=3&extend=1
 - type: subscribe
-    options:
-      url: https://suda.sub.koicloud.pw/link/K9vz0uFPe9ULfdqX?sub=3
+  options:
+    url: https://suda.sub.koicloud.pw/link/K9vz0uFPe9ULfdqX?sub=3
 - type: subscribe
-    options:
-      url: https://baipiao-rss.com/link/NESJDoBYEccrLeN4?sub=3&extend=1
+  options:
+    url: https://baipiao-rss.com/link/NESJDoBYEccrLeN4?sub=3&extend=1
 
 # 网页模糊抓取
 - type: webfuzz
