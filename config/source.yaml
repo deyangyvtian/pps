@@ -7,6 +7,9 @@
 
 - type: subscribe
   options:
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1013.txt
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2020-10-14
 - type: subscribe
   options:
