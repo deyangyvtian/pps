@@ -312,7 +312,14 @@
   options:
     channel: freeshadowsock
     num: 200
-
+- type: tgchannel
+  options:
+    channel: yo520
+    num: 200
+- type: tgchannel
+  options:
+    channel: ivmess
+    num: 200
 # 翻墙党，后面的东西都无需修改
 - type: web-fanqiangdang
   options:
