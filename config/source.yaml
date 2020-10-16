@@ -324,6 +324,10 @@
   options:
     channel: cnhumanright99
     num: 200
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
 # 翻墙党，后面的东西都无需修改
 - type: web-fanqiangdang
   options:
