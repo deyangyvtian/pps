@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://github.com/luohao10001/pps/raw/master/config/source.yaml
+  - https://raw.githubusercontent.com/deyangyvtian/pps/master/config/source.yaml
